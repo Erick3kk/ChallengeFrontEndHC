@@ -142,6 +142,8 @@ vite.config.ts
 
 * **Link do vídeo no YouTube:** [https://www.youtube.com/watch?v=8rX-LvC3RHw](https://www.youtube.com/watch?v=8rX-LvC3RHw)
 
+* **Link do Vercel:** [https://challengefrontend-orpin.vercel.app](https://challengefrontend-orpin.vercel.app)
+
 ## Ícones usados 
 
 * IconArrowLeft
