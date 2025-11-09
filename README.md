@@ -44,7 +44,7 @@ npm run dev
 
   ,ESLint + Prettier,—,Código limpo e padronizado\
 
-* Backend: Java,API RESTful em http://localhost:8080
+* Backend: Java,API RESTful em https://challengejavasprint04-1.onrender.com
 
   ,Spring Web, Endpoints HTTP
 
