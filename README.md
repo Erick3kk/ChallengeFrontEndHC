@@ -30,27 +30,23 @@ npm run dev
 
 * **Frontend:** React + TypeScript,18.2+,Interface reativa e tipada
 
-  ,Vite,5.0+,Build ultra-rápida e HMR
+  ,Vite
 
-  ,Tailwind CSS,3.4+,"Estilização utilitária, sem CSS manual"
+  ,Tailwind CSS
 
-  ,React Router DOM,6.20+,"Navegação SPA com useNavigate, useSearchParams"
+  ,React Router DOM
 
-  ,fetch API (nativo),—,Requisições HTTP (sem Axios)
+  ,fetch API, Requisições HTTP
 
-  ,localStorage,—,Armazenamento do usuário logado
-
-  ,SVG Custom Icons,—,Ícones centralizados em Icons.tsx
-
-  ,ESLint + Prettier,—,Código limpo e padronizado\
+  ,localStorage, Armazenamento do usuário logado
 
 * Backend: Java,API RESTful em https://challengejavasprint04-1.onrender.com
 
-  ,Spring Web, Endpoints HTTP
+  Endpoints HTTP,
 
-  ,Lombok, Redução de boilerplate
+  Lombok, Redução de boilerplate
 
-  ,Maven, Gerenciador de dependências
+  Maven, Gerenciador de dependências
 
 ### Estrutura de pastas
 
